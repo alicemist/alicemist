@@ -1,8 +1,7 @@
 
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Ali Cem</h1>
 <p align="center">
-  <a href="https://github.com/RawandAhmed698"><img src="https://img.shields.io/badge/-rawandahmad698-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  <a href="https://rawa.dev"><img src="https://img.shields.io/badge/-rawa.dev-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://github.com/alicemist"><img src="https://img.shields.io/badge/-rawandahmad698-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ali-cem-ozkara-2561a1155/"><img src="https://img.shields.io/badge/-Rawand Ahmed Shawar-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
   
