@@ -19,7 +19,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/rawandahmad698/rawandahmad698/raw/master/assets/me.PNG" alt="Rawand Ahmed Shaswar"/>
+      <img align="right" width="250" src="https://avatars.githubusercontent.com/u/41231109?v=4" alt="Ali Cem Özkara"/>
       
 <blockquote>
 
