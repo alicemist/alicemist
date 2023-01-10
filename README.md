@@ -3,12 +3,15 @@
 <p align="center">
   <a href="https://github.com/alicemist"><img src="https://img.shields.io/badge/-alicemist-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ali-cem-ozkara-2561a1155/"><img src="https://img.shields.io/badge/-Ali Cem Özkara-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:alicemozkara@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a><br>
 </p>
   
 
   
 <p align="center">
-<img width="500" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" />
+<img width="850" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" />
 </p>
 
 
@@ -16,7 +19,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://avatars.githubusercontent.com/u/41231109?v=4" alt="Ali Cem Özkara"/>
+ 
       
 <blockquote>
 
