@@ -28,7 +28,9 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
+          plugin_leetcode_user: alilo
           plugin_leetcode_sections: solved, skills, recent
           
+
 
 
