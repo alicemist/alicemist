@@ -4,7 +4,7 @@
   <a href="https://github.com/alicemist"><img src="https://img.shields.io/badge/-alicemist-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ali-cem-ozkara-2561a1155/"><img src="https://img.shields.io/badge/-Ali Cem Özkara-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:alicemozkara@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/-alicemist-3a3a3a?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
 </a><br>
 </p>
   
