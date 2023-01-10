@@ -22,6 +22,8 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Europe/Istanbul
           plugin_leetcode: yes
+          plugin_leetcode_user: alilo
           plugin_leetcode_sections: solved, skills, recent
+          
 
 
