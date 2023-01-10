@@ -11,6 +11,8 @@
 - 📫 How to reach me **alicemozkara@gmail.com**
 
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.habits.charts.svg)
+![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.leetcode.svg)
 
 
 
