@@ -30,8 +30,10 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: alilo
           plugin_leetcode_sections: solved, skills, recent
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v1.1.4
+ 
+      - uses: Platane/snk@v1.1.4
+        with:
+          filename: metrics.plugin.snake.svg
 
           
 
