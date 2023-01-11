@@ -9,7 +9,7 @@
 - 💬 Ask me about algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
 
 - 📫 How to reach me **alicemozkara@gmail.com**
-![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/github-metrics.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.habits.charts.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.leetcode.svg)
