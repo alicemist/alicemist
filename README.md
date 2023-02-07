@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicemist&label=Profile%20views&color=0e75b6&style=flat" alt="alicemist" /> </p>
 
 
-- 🌱 I’m currently learning R programming for statical analysis **Rstudio**
+- 🌱 I’m currently learning: 
+ - R programming for statical analysis **Rstudio**
+ - Automation methodologies about human-computer interraction
 
 - 💬 Ask me about algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
 
