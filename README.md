@@ -5,6 +5,7 @@
 
 
 - 🌱 I’m currently learning: 
+     - Selenium logics for platforms that use selenium backend.  
  - R programming for statical analysis **Rstudio**
  - Automation methodologies about human-computer interraction
 
