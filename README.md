@@ -5,8 +5,7 @@
 
 
 - 🌱 I’m currently learning: 
-     - Selenium logics for platforms that use selenium backend.  
- - R programming for statical analysis **Rstudio**
+ - Selenium logics for platforms that use selenium backend.
  - Automation methodologies about human-computer interraction
 
 - 💬 Ask me about algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
