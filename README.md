@@ -15,11 +15,11 @@
 <hr>
 
 ![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
-<hr>
+
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/github-metrics.svg)
-<hr>
+
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.habits.charts.svg)
-<hr>
+
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.leetcode.svg)
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
