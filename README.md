@@ -11,14 +11,14 @@
 - 💬 Ask me about algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
 
 - 📫 How to reach me **alicemozkara@gmail.com**
-<hr>
+
 ![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/github-metrics.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.habits.charts.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.leetcode.svg)
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/alicemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alicemist" height="30" width="40" /></a>
