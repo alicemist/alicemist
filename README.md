@@ -16,9 +16,9 @@
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/github-metrics.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.habits.charts.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.leetcode.svg)
-<hr>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/alicemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alicemist" height="30" width="40" /></a>
