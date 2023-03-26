@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicemist&label=Profile%20views&color=0e75b6&style=flat" alt="alicemist" /> </p>
 
 
-- 🌱 I’m currently learning: 
+**🌱 I’m currently learning:** 
  - Selenium logics for platforms that use selenium backend.
  - Automation methodologies about human-computer interraction
 
