@@ -10,7 +10,7 @@
 
 - 💬 Ask me about algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
 
-- 📫 How to reach me **alicemozkara@gmail.com**
+- 📫 Reach me: **alicemozkara@gmail.com**
 
 <hr>
 
