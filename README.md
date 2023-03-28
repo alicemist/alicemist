@@ -8,7 +8,7 @@
  - Selenium logics for platforms that use selenium backend.
  - Automation methodologies about human-computer interraction
 
-- 💬 Ask me about algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
+- 💬 Ask me about: algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
 
 - 📫 Reach me: **alicemozkara@gmail.com**
 
