@@ -19,36 +19,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.938172043010752 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">47</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2604</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.0552147239263805 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">48</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2608</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.912087912087912 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">25</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/637</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.407523510971785 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">26</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/638</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.747474747474747 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.740634005763688 329"/>
                                     <text x="60" y="50" dominant-baseline="central">20</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1386</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1388</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.1325301204819278 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.1305841924398625 329"/>
                                     <text x="60" y="50" dominant-baseline="central">2</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/581</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/582</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -68,9 +68,9 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x9</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x9</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x8</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x7</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x6</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x6</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x6</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x5</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Graph <span class="count">x4</span></div>
                     </div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Excel Sheet Column Title</div>
-                            <div class="date">24 Mar 2023</div>
+                            <div class="title">Palindrome Number</div>
+                            <div class="date">1 Apr 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Customers Who Never Order</div>
-                            <div class="date">24 Mar 2023</div>
+                            <div class="title">Binary Search</div>
+                            <div class="date">1 Apr 2023</div>
                         </div>
                     </div>
                 </section>
