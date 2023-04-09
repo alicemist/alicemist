@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ali Cem Özkara</h1>
 <h3 align="left">Solutions-driven professional with 3+ years of experience in leading software teams and developing innovative solutions for global consulting companies. Experienced in working with modern web automation, application automation, web technologies, cloud technologies, and NLP techniques.</h3>
 
-** My website** : https://alicemist.github.io/folio/
+**My website** : https://alicemist.github.io/folio/
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alicemist&label=Profile%20views&color=0e75b6&style=flat" alt="alicemist" /> </p>
 
