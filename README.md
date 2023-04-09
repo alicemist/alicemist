@@ -13,7 +13,7 @@
 - 💬 Ask me about: algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
 
 - 📫 Reach me: **alicemozkara@gmail.com**
-
+- Colleagues : **Coming Soon**
 <hr>
 
 ![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
