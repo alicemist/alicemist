@@ -47,8 +47,8 @@ hobbies: ["Basketball", "Competitive Gaming"]
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
+<!--START_SECTION:time-->
+<!--END_SECTION:time-->
 
 Wanna play?
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicemist&show_icons=true&locale=en&layout=compact" alt="alicemist" />
