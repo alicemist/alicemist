@@ -1,19 +1,30 @@
-<h1 align="center">Hi, I'm Ali Cem Özkara</h1>
-<h3 align="left">Solutions-driven professional with 3+ years of experience in leading software teams and developing innovative solutions for global consulting companies. Experienced in working with modern web automation, application automation, web technologies, cloud technologies, and NLP techniques.</h3>
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/ali-cem-oz/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
 
-**My website** : https://alicemist.github.io/folio/
+<br>
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=alicemist&label=Profile%20views&color=0e75b6&style=flat" alt="alicemist" /> </p>
+```yaml
+name: Ali Cem Özkara
+located_in: [Ankara-Turkey]
+from: [Turkey]
+job: Solutions-driven Professional
+education: ["Bachelor's in Computer Science"]
+website: https://alicemist.github.io/folio/
+technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Cloud Technologies", "NLP Techniques"]
+currently_learning: ["Selenium Logics for Platforms that Use Selenium Backend", 
+"Automation Methodologies about Human-Computer Interaction",CPLEX modelling]
+ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", "Node.js", "React.js", "TypeScript","LeetCode"]
+hobbies: ["Basketball", "Competitive Gaming"]
+```
 
 
-**🌱 I’m currently learning:** 
- - Selenium logics for platforms that use selenium backend.
- - Automation methodologies about human-computer interraction
-
-- 💬 Ask me about: algorithm challenges / solving methodology. **python , nodejs , reactjs ,ts**
-
-- 📫 Reach me: **alicemozkara@gmail.com**
-- Colleagues : **Coming Soon**
 <hr>
 
 ![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
