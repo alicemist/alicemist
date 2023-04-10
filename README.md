@@ -57,3 +57,12 @@ Wanna play?
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+<div id="animasyon" style="position: absolute; width: 50px; height: 50px; background-color: red; border-radius: 25px;"></div>
+<script>
+    const animasyon = document.getElementById('animasyon');
+
+    document.addEventListener('mousemove', (e) => {
+        animasyon.style.left = `${e.clientX - 25}px`;
+        animasyon.style.top = `${e.clientY - 25}px`;
+    });
+</script>
