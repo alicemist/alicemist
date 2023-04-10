@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="loficity" width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
-<p align="left">
+<p align="center">
 <br/>
   <a href="https://www.buymeacoffee.com/alicemozkara"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alicemozkara" /></a>
 <a href="https://www.linkedin.com/in/ali-cem-oz/">
@@ -13,7 +13,7 @@
 <br>
 </p>
  
-Your Daily Dark Quote : [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ```yaml
