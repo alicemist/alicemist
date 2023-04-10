@@ -1,12 +1,15 @@
 <p align="center">
-<img alt="loficity" width="800%" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+<img alt="loficity" width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
-<p align="center">
+<p align="left">
 <br/>
+  <a href="https://www.buymeacoffee.com/alicemozkara"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alicemozkara" /></a>
 <a href="https://www.linkedin.com/in/ali-cem-oz/">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  <img alt="AliCem's LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  
 </a>
-
+<a href="https://www.leetcode.com/alilo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alilo"  width="30px" /></a>
+  
 <br>
 </p>
 
@@ -23,16 +26,19 @@ currently_learning: ["Selenium Logics for Platforms that Use Selenium Backend",
 ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", "Node.js", "React.js", "TypeScript","LeetCode"]
 hobbies: ["Basketball", "Competitive Gaming"]
 ```
-<hr>
 
 ![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
+<hr>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=alicemist&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+
 
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/github-metrics.svg)
 
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.habits.charts.svg)
 ![Metrics](https://raw.githubusercontent.com/alicemist/alicemist/main/metrics.plugin.leetcode.svg)
-
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -53,3 +59,8 @@ hobbies: ["Basketball", "Competitive Gaming"]
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicemist&show_icons=true&locale=en&layout=compact" alt="alicemist" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicemist&" alt="alicemist" /></p>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2038%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
