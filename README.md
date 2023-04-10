@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="loficity" width="100%" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+<img alt="loficity" width="800%" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 <p align="center">
 <br/>
@@ -23,8 +23,6 @@ currently_learning: ["Selenium Logics for Platforms that Use Selenium Backend",
 ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", "Node.js", "React.js", "TypeScript","LeetCode"]
 hobbies: ["Basketball", "Competitive Gaming"]
 ```
-
-
 <hr>
 
 ![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
