@@ -12,6 +12,9 @@
   
 <br>
 </p>
+ 
+Your Daily Dark Quote : [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ```yaml
 name: Ali Cem Özkara
