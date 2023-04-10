@@ -56,6 +56,7 @@ hobbies: ["Basketball", "Competitive Gaming"]
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alicemozkara"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alicemozkara" /></a></p>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicemist&show_icons=true&locale=en&layout=compact" alt="alicemist" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicemist" alt="alicemist" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicemist&show_icons=true&locale=en&layout=compact" alt="alicemist" />
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=alicemist" alt="alicemist" /></p>
