@@ -125,10 +125,12 @@ waka-readme-stats        1 min               █░░░░░░░░░░�
 <!--END_SECTION:time-->
 
 Wanna play?
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicemist&show_icons=true&locale=en&layout=compact" alt="alicemist" />
+ <div align=center>
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicemist&show_icons=true&locale=en&layout=compact" alt="alicemist" />
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=alicemist" alt="alicemist" /></p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alicemist" alt="alicemist" />
+</div>
+  <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
 
