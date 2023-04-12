@@ -131,7 +131,7 @@ Wanna play?
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alicemist" alt="alicemist" />
 </div>
-<div align=center width= 100%>
-  <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+<div align=center>
+  <img   width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
 
