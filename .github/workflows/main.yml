@@ -47,6 +47,32 @@ jobs:
           LANG_COUNT: 10
           COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
           SECTION_NAME: WAKA
+          
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "Updated time metrics"
+          COMMIT_USERNAME: "alicemist"
+          COMMIT_EMAIL: "alicemozkara@gmail.com"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: 'time'
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_SHORT_INFO: "True"
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
  
    
 
