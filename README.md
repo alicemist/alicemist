@@ -53,11 +53,11 @@ hobbies: ["Basketball", "Competitive Gaming"]
 <!--START_SECTION:WAKA-->
 
 ```text
-From: 09 April 2023 - To: 18 April 2023
+From: 09 April 2023 - To: 19 April 2023
 
-Total Time: 4 hrs 52 mins
+Total Time: 5 hrs 3 mins
 
-Other        2 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.26 %
+Other        2 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.82 %
 ```
 
 <!--END_SECTION:WAKA-->
