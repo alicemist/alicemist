@@ -24,6 +24,7 @@
 name: Ali Cem Özkara
 located_in: [Ankara-Turkey]
 from: [Turkey]
+Currently Working on: GrapQL Request's
 job: Solutions-driven Professional
 education: ["Bachelor's in Computer Science"]
 website: https://alicemist.github.io/folio/
