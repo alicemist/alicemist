@@ -19,18 +19,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.756381381381383 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.745406824146981 329"/>
                                     <text x="60" y="50" dominant-baseline="central">79</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2664</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2667</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.55030487804878 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.474962063732928 329"/>
                                     <text x="60" y="50" dominant-baseline="central">33</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/656</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/659</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
