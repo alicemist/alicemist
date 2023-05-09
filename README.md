@@ -30,7 +30,7 @@ education: ["Bachelor's in Computer Science"]
 website: https://alicemist.github.io/folio/
 technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Cloud Technologies", "NLP Techniques"]
 currently_learning: ["Selenium Logics for Platforms that Use Selenium Backend", 
-"Automation Methodologies about Human-Computer Interaction",CPLEX modelling]
+Personal Bots with selenium in complex tasks", "Custom API building"]
 ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", "Node.js", "React.js", "TypeScript","LeetCode"]
 hobbies: ["Basketball", "Competitive Gaming"]
 ```
