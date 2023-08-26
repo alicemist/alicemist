@@ -131,12 +131,7 @@ No Activity Tracked This Week
 <!--END_SECTION:time-->
 
 Wanna play?
- <div align=center>
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicemist&show_icons=true&locale=en&layout=compact" alt="alicemist" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alicemist" alt="alicemist" />
-</div>
 <div align=center>
   <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
