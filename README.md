@@ -1,4 +1,6 @@
 <p align="center">
+
+  
 <img alt="loficity" width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 <p align="center">
@@ -34,7 +36,7 @@ Personal Bots with selenium in complex tasks", "Custom API building"]
 ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", "Node.js", "React.js", "TypeScript","LeetCode"]
 hobbies: ["Basketball", "Competitive Gaming"]
 ```
-
+[![Generate Snake](https://github.com/alicemist/alicemist/actions/workflows/snakegenerator.yml/badge.svg)](https://github.com/alicemist/alicemist/actions/workflows/snakegenerator.yml)
 ![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
 <hr>
 <p align="center">
