@@ -2,8 +2,8 @@
 
   
 <img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
-</p>
-<p align="center">
+
+
 <br/>
   <a href="https://www.buymeacoffee.com/alicemozkara"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alicemozkara" /></a>
 <a href="https://www.linkedin.com/in/ali-cem-oz/">
@@ -14,13 +14,13 @@
 
 <br>
   
+
+
+
+
+ ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
 </p>
-
- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord) 
-  
-
-
-
 
 ```yaml
 name: Ali Cem Özkara
@@ -40,7 +40,7 @@ hobbies: ["Basketball", "Competitive Gaming"]
 ![snake gif](https://github.com/alicemist/alicemist/blob/output/github-snake-dark.svg)
 <hr>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=alicemist&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=alicemist&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
