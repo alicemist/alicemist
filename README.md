@@ -37,7 +37,7 @@ ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", 
 hobbies: ["Basketball", "Competitive Gaming"]
 ```
 [![Generate Snake](https://github.com/alicemist/alicemist/actions/workflows/snakegenerator.yml/badge.svg)](https://github.com/alicemist/alicemist/actions/workflows/snakegenerator.yml)
-![snake gif](https://github.com/alicemist/alicemist/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/alicemist/alicemist/blob/output/github-snake-dark.svg)
 <hr>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=alicemist&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
