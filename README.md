@@ -1,7 +1,7 @@
 <p align="center">
 
   
-<img alt="loficity" width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+<img idth="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 <p align="center">
 <br/>
