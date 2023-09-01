@@ -16,7 +16,7 @@ jobs:
           COMMIT_MESSAGE: "Updated time metrics"
           COMMIT_USERNAME: "alicemist"
           COMMIT_EMAIL: "alicemozkara@gmail.com"
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY}}
           SECTION_NAME: 'time'
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
