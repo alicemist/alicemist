@@ -26,7 +26,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY}}
           COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Updated time metrics"
           COMMIT_USERNAME: "alicemist"
           COMMIT_EMAIL: "alicemozkara@gmail.com"
           SHOW_TITLE: true
