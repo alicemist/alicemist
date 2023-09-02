@@ -21,5 +21,8 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
           COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
+          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "alicemist"
+          COMMIT_EMAIL: "alicemozkara@gmail.com"
           SECTION_NAME: WAKA
           
