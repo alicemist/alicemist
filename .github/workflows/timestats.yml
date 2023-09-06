@@ -19,7 +19,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY}}
           SECTION_NAME: 'time'
           SHOW_OS: "False"
-          SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "True"
