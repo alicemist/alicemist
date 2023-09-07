@@ -12,7 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-          
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: Show GitHub logo
+          committer_name: alicemist
+          committer_email: alicemozkara@gmail.com
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
