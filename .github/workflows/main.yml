@@ -12,11 +12,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: EndBug/add-and-commit@v9
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          message: Show GitHub logo
-          committer_name: alicemist
-          committer_email: alicemozkara@gmail.com
+          commit_message: Apply php-cs-fixer changes
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
