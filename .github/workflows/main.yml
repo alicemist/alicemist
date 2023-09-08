@@ -12,9 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Apply php-cs-fixer changes
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
