@@ -33,4 +33,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "True"
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN  }}
