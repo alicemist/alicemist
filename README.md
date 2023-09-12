@@ -56,7 +56,7 @@ hobbies: ["Basketball", "Competitive Gaming"]
 <!--START_SECTION:WAKA-->
 
 ```txt
-From: 09 April 2023 - To: 10 September 2023
+From: 09 April 2023 - To: 11 September 2023
 
 Total Time: 178 hrs 14 mins
 
