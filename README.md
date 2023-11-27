@@ -28,7 +28,7 @@ located_in: [Ankara-Turkey]
 from: [Turkey]
 Currently Working on: GrapQL Request's
 job: Solutions-driven Professional
-education: ["Bachelor's in Computer Science"]
+education: ["Bachelor's in Electric & Electronics Engineering"]
 website: https://alicemist.github.io/folio/
 technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Cloud Technologies", "NLP Techniques"]
 currently_learning: ["Selenium Logics for Platforms that Use Selenium Backend", 
