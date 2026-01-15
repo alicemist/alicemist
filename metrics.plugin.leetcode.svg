@@ -72,7 +72,7 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x11</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x10</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x8</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Graph <span class="count">x8</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Graph Theory <span class="count">x8</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
