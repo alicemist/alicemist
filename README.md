@@ -90,8 +90,44 @@ YAML         4 mins                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 09:25:55 UTC
+```text
+🌞 Morning                1846 commits        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+🌆 Daytime                3918 commits        █████████████░░░░░░░░░░░░   51.24 % 
+🌃 Evening                1477 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+🌙 Night                  405 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   901 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Tuesday                  928 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Wednesday                1071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Thursday                 935 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Friday                   1664 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Saturday                 1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Sunday                   893 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 15/05/2026 12:08:03 UTC
 <!--END_SECTION:time-->
 
 Wanna play?
