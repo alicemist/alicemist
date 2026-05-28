@@ -74,15 +74,13 @@ YAML         4 mins                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:WAKA-->
 <!--START_SECTION:time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2014%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.43%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 39.5 kB Used in GitHub's Storage 
+> 📦 39.6 kB Used in GitHub's Storage 
  > 
-> 🏆 682 Contributions in the Year 2026
+> 🏆 683 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,44 +88,8 @@ YAML         4 mins                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1850 commits        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-🌆 Daytime                3945 commits        █████████████░░░░░░░░░░░░   51.30 % 
-🌃 Evening                1490 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-🌙 Night                  405 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   907 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Tuesday                  934 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Wednesday                1077 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Thursday                 939 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Friday                   1670 commits        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Saturday                 1262 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Sunday                   901 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 28/05/2026 14:47:54 UTC
+ Last Updated on 28/05/2026 18:44:57 UTC
 <!--END_SECTION:time-->
 
 Wanna play?
